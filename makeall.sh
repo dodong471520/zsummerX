@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm CMakeCache.txt
+rm -rf CMakeCache.txt
 rm -fr CMakeFiles
 cmake . -DCMAKE_BUILD_TYPE=Release
 make -j3
