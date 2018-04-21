@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/mnt/shared/git/dodong471520/zsummerX/src/epoll/epoll_impl.cpp': [{'sign_idx': 9501, 'line_nr': 143, 'content': '                char buf[200];'},{'sign_idx': 9503, 'line_nr': 186, 'content': '            if (pEvent->_udpsocketPtr)'},],'/mnt/shared/git/dodong471520/zsummerX/example/tcpTest/main.cpp': [{'sign_idx': 9500, 'line_nr': 105, 'content': '    if (g_startType == 0) ILog4zManager::getPtr()->config("server.cfg");'},],}}
+let l:bm_current_session = 'default'
